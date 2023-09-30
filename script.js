@@ -1,4 +1,5 @@
-function otomatis() {befanimkata();setTimeout(animkata,400);} 
+  window.location.replace("https://www.feeldream.id/2023/01/script-feeldream.html?#yukbuka")
+  function otomatis() {befanimkata();setTimeout(animkata,400);} 
   function befanimkata(){kalimat.style="transform:scale(.3);";kalimatb.style="transform:scale(.3);";kalimatc.style="transform:scale(.3);";} 
   function animkata() {kalimat.style="transform:scale(1);";kalimatb.style="transform:scale(1);";kalimatc.style="transform:scale(1);";}
   
